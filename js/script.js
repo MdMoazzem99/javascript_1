@@ -73,16 +73,16 @@ function minusC(){
 // output end
 // statements start
 // part 1 start
-var x, y, z;
-x = 5;
-y = 6;
-z = x + y;
-document.getElementById("demo").innerHTML = "The value of z is " + z + ".";
+var xq, yq, zq;
+xq = 5;
+yq = 6;
+zq = xq + yq;
+document.getElementById("demo").innerHTML = "The value of z is " + zq + ".";
 // part 1 end
 // part 2 start
-var x, y, z;
-x = 5; y = 7; z = x + y;
-document.getElementById("demo_1").innerHTML = z;
+var xw, yw, zw;
+xw = 5; yw = 7; zw = xw + yw;
+document.getElementById("demo_1").innerHTML = zw;
 // part 2 end
 // part 3 start
 document.getElementById("demo_2").innerHTML = "Hello World";
@@ -94,11 +94,11 @@ function myFunctionA(){
 }
 // part 4 end
 // part 5 start
-var x, y, z;
-x = 5; y = 7;
-z = x + y;
+var xe, ye, ze;
+xe = 5; ye = 7;
+ze = xe + ye;
 function myFunction(){
-	document.getElementById("demo_4").innerHTML = z;
+	document.getElementById("demo_4").innerHTML = ze;
 }
 // part 5 end
 // statements end
@@ -123,10 +123,10 @@ function variableA(){
 }
 // part 1 end
 // part 2 start
-var x, y, z;
-x = 6;
+var q, y, z;
+q = 6;
 y = 7;
-z = x + y;
+z = q + y;
 function variableB(){
 	document.getElementById("var_2").innerHTML = z;
 }
@@ -153,9 +153,9 @@ function variableD(){
 }
 // part 4 end
 // part 5 start
-var q;
+var k;
 function variableE(){
-	document.getElementById("var_5").innerHTML = q;
+	document.getElementById("var_5").innerHTML = k;
 }
 // part 5 end
 // part 6 start
